@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
   },
   seekBarProgress: {
     height: 3,
-    backgroundColor: '#F00',
+    backgroundColor: '#0060a5',
   },
   seekBarKnob: {
     width: 20,
@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     marginHorizontal: -8,
     marginVertical: -10,
     borderRadius: 10,
-    backgroundColor: '#F00',
+    backgroundColor: '#0060a5',
     transform: [{ scale: 0.8 }],
     zIndex: 1,
   },
